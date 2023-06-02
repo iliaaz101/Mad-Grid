@@ -8,7 +8,7 @@ Mad Grid was initially designed for York University's EECS 1022 (Mobile Programm
 https://github.com/iliaaz101/Mad-Grid/assets/87081517/0a60baeb-eadc-4f46-a013-46ee106751ea
 
 ## Screenshots
-![](https://drive.google.com/file/d/1du5BymIEDE9YAjSA9AneaknXsKRGKEXe/view?usp=share_link)
+![](https://github.com/iliaaz101/Mad-Grid/blob/main/Screenshots/screenshot1.png)
 ![](https://drive.google.com/file/d/1RK4_xp7H7CahH7-QX4m_yL3Rvgz0Gt6Y/view?usp=share_link)
 ![](https://drive.google.com/file/d/1GBQMpsAzEBzcvGpQKR6mcaLNMIHt-7Mr/view?usp=share_link)
 ![](https://drive.google.com/file/d/1XbP1aq_MybW_7W-7ImVnIag52CrtGKx3/view?usp=share_link)
