@@ -2,7 +2,16 @@
 Mad Grid is a memory-enhancing application inspired by the concept of Human Benchmark. This interactive game is designed to challenge and improve your memory skills, presenting an experience that is both captivating and cognitive.
 
 ## Origin
-Mad Grid was initially designed for York University's EECS 1022 (Mobile Programming) course. It was later expanded by @BarbodH. The original project can be found here. This project is a joint effort by [@iliaaz101](https://github.com/iliaaz101) and [@BarbodH](https://github.com/BarbodH). The Project was further expanded by [@BarbodH](https://github.com/BarbodH) and can be found on the Google Play Store [here](https://play.google.com/store/apps/details?id=com.barbodh.madgrid)
+Mad Grid was initially designed for York University's EECS 1022 (Mobile Programming) course, where it received an **A+**. It was later expanded by @BarbodH. The original project can be found here. This project is a joint effort by [@iliaaz101](https://github.com/iliaaz101) and [@BarbodH](https://github.com/BarbodH). The Project was further expanded by [@BarbodH](https://github.com/BarbodH) and can be found on the Google Play Store [here](https://play.google.com/store/apps/details?id=com.barbodh.madgrid)
+
+## Video Demonstration
+Video Demonstration of the game and stock market look-up can be found [here](https://drive.google.com/file/d/1082TjkkJCkI714St34uDf9KuNIEvfCMY/view?usp=sharing)
+
+## Screenshots
+!(https://drive.google.com/file/d/1du5BymIEDE9YAjSA9AneaknXsKRGKEXe/view?usp=share_link)
+!(https://drive.google.com/file/d/1RK4_xp7H7CahH7-QX4m_yL3Rvgz0Gt6Y/view?usp=share_link)
+!(https://drive.google.com/file/d/1GBQMpsAzEBzcvGpQKR6mcaLNMIHt-7Mr/view?usp=share_link)
+!(https://drive.google.com/file/d/1XbP1aq_MybW_7W-7ImVnIag52CrtGKx3/view?usp=share_link)
 
 ## Gameplay Mechanics
 The core of Mad Grid revolves around a 2x2 grid that displays a sequence of randomly highlighted shapes. The objective? The player must replicate this sequence perfectly. But it's not as simple as it sounds. The game increases in difficulty as you advance, with the length of the sequence growing with each successfully completed level.
