@@ -5,7 +5,7 @@ Mad Grid is a memory-enhancing application inspired by the concept of Human Benc
 Mad Grid was initially designed for York University's EECS 1022 (Mobile Programming) course, where it received an **A+**. It was later expanded by @BarbodH. The original project can be found here. This project is a joint effort by [@iliaaz101](https://github.com/iliaaz101) and [@BarbodH](https://github.com/BarbodH). The Project was further expanded by [@BarbodH](https://github.com/BarbodH) and can be found on the Google Play Store [here](https://play.google.com/store/apps/details?id=com.barbodh.madgrid)
 
 ## Video Demonstration
-Video Demonstration of the game and stock market look-up can be found [here](https://drive.google.com/file/d/1082TjkkJCkI714St34uDf9KuNIEvfCMY/view?usp=sharing)
+https://github.com/iliaaz101/Mad-Grid/assets/87081517/0a60baeb-eadc-4f46-a013-46ee106751ea
 
 ## Screenshots
 ![](https://drive.google.com/file/d/1du5BymIEDE9YAjSA9AneaknXsKRGKEXe/view?usp=share_link)
