@@ -9,9 +9,9 @@ https://github.com/iliaaz101/Mad-Grid/assets/87081517/0a60baeb-eadc-4f46-a013-46
 
 ## Screenshots
 ![](https://github.com/iliaaz101/Mad-Grid/blob/main/Screenshots/screenshot1.png)
-![](https://drive.google.com/file/d/1RK4_xp7H7CahH7-QX4m_yL3Rvgz0Gt6Y/view?usp=share_link)
-![](https://drive.google.com/file/d/1GBQMpsAzEBzcvGpQKR6mcaLNMIHt-7Mr/view?usp=share_link)
-![](https://drive.google.com/file/d/1XbP1aq_MybW_7W-7ImVnIag52CrtGKx3/view?usp=share_link)
+![](https://github.com/iliaaz101/Mad-Grid/blob/main/Screenshots/screenshot2.png)
+![](https://github.com/iliaaz101/Mad-Grid/blob/main/Screenshots/screenshot3.png)
+![](https://github.com/iliaaz101/Mad-Grid/blob/main/Screenshots/screenshot4.png)
 
 ## Gameplay Mechanics
 The core of Mad Grid revolves around a 2x2 grid that displays a sequence of randomly highlighted shapes. The objective? The player must replicate this sequence perfectly. But it's not as simple as it sounds. The game increases in difficulty as you advance, with the length of the sequence growing with each successfully completed level.
